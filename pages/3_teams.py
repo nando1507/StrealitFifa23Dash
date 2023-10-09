@@ -71,4 +71,15 @@ fig_date = px.scatter(
 )
 st.plotly_chart(fig_date,use_container_width=True)
 
+
+fig_date = px.line(
+    df_cols, 
+    x="Nationality", 
+    y="Age",
+    color="Nationality",
+    title="Nacionalidade por Idade",
+    orientation="v"
+)
+st.plotly_chart(fig_date,use_container_width=True)
+
 st.button("Rerun")
