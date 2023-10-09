@@ -18,8 +18,11 @@ st.write("# Fifa 23")
 st.write("## Ligas")
 
 df_ligas = pd.read_csv("datasets\male_teams.csv", sep=",")
+df_ligas = df_ligas.sort_values(by=["team_id"], ascending=True)
+df_ligas = df_ligas[df_ligas["update_as_of"] == max(df_ligas["update_as_of"])]
 
 Ligas = st.sidebar.selectbox("Ligas", df_ligas["league_name"].unique())
 df_ligas = df_ligas[df_ligas["league_name"] == Ligas]
 Pais = st.sidebar.selectbox("Pais", df_ligas["nationality_name"].unique())
+df_ligas = df_ligas[df_ligas["nationality_name"] == Pais]
 df_ligas
