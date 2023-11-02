@@ -35,12 +35,14 @@ Colunas = [
     'Flag', 
     'Overall', 
     'Potential',
+    'Value(£)',
+    'Wage(£)',
+    'Release Clause(£)',
     'Club', 
     'Club Logo',     
     'Position', 
-    'Height', 
-    'Weight', 
-    'Release Clause',
+    'Height(cm.)', 
+    'Weight(lbs.)', 
     'Kit Number'
 ]
 
@@ -53,8 +55,8 @@ st.dataframe(df_cols,
             column_config={
                 "Overall": st.column_config.ProgressColumn("Overall", format="%d",min_value=0, max_value=100),
                 "Potential": st.column_config.ProgressColumn("Potential", format="%d",min_value=0, max_value=100),
-                # "Value": st.column_config.NumberColumn("Value".replace()., format="$%d", min_value=0),
-                # "Wage": st.column_config.ProgressColumn("Wage", format="%f",min_value=0, max_value=df["Wage"].max())
+                "Value(£)": st.column_config.NumberColumn("Value(£)", format="$%d", min_value=0),
+                "Wage(£)": st.column_config.ProgressColumn("Wage(£)", format="%f",min_value=0, max_value=df["Wage(£)"].max()),
                 "Photo": st.column_config.ImageColumn("Photo", width="small"),
                 "Flag": st.column_config.ImageColumn("Flag", width="small"),
                 "Club Logo": st.column_config.ImageColumn("Club Logo", width="small"),
@@ -63,10 +65,10 @@ st.dataframe(df_cols,
 
 fig_date = px.scatter(
     df_cols, 
-    x="Nationality", 
+    x="Position", 
     y="Age",
-    color="Nationality",
-    title="Nacionalidade por Idade",
+    color="Position",
+    title="Idade por Posição",
     orientation="v"
 )
 st.plotly_chart(fig_date,use_container_width=True)
@@ -74,8 +76,8 @@ st.plotly_chart(fig_date,use_container_width=True)
 
 fig_date = px.line(
     df_cols, 
-    x="Nationality", 
-    y="Age",
+    x="Age", 
+    y="Nationality",
     color="Nationality",
     title="Nacionalidade por Idade",
     orientation="v"
