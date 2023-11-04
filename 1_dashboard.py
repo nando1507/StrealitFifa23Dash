@@ -1,7 +1,7 @@
 import streamlit as st
+import plotly.express as px
 import pandas as pd
 import numpy as np
-import plotly.express as px
 import pyodbc
 from sqlalchemy import create_engine
 
@@ -50,7 +50,7 @@ posicoes = [
     ["CAM","Central Attacking Midfielder ","Meio-Atacante","Meio Campo"],
     ["LW","Left Winger ","Ponta Esquerdo","Ataque"],
     ["LM","Left Midfielder ","Meia Esquerdo","Meio Campo"],
-    ["GK","Goalkeeper ","Goleiro","Defesa"],
+    ["GK","Goalkeeper ","Goleiro","Goleiro"],
     ["CF","Center Forward ","Segundo Atacante","Ataque"],
     ["ST","Striker ","CentroAvante","Ataque"],
     ["RM","Right Midfielder ","Meia Direito","Meio Campo"]
@@ -149,68 +149,135 @@ st.divider()
 if "data" not in st.session_state:
     st.session_state["data"] = df_fifa
 
-df_GK = df_fifa[df_fifa["PlayerPosition"] == "GK"] 
+
+#region Linha1
+col1, col2 = st.columns(2)
+df_GK = df_fifa[df_fifa["Categoria"] == "Goleiro"].groupby(by=["PlayerAge","PlayerPosition"])[["PlayerRank"]].count().reset_index()
 fig_date_GK = px.bar(
-    df_GK.head(),
+    df_GK,
     x="PlayerAge", 
-    y="PlayerPosition",
+    y="PlayerRank",
     color="PlayerPosition",
     title="Idade Goleiros",
     orientation="v"
 )
-st.plotly_chart(fig_date_GK,use_container_width=True)
 
-
-fig_date = px.bar(
-    df_fifa[df_fifa["PlayerPosition"] == ""], 
+fig_date_Gk_area = px.area(
+    df_GK, 
     x="PlayerAge", 
-    y="PlayerPosition",
+    y="PlayerRank",
     color="PlayerPosition",
-    title="Idade por Posição",
+    title="Agrupamento",
     orientation="v"
 )
-# st.plotly_chart(fig_date,use_container_width=True)
 
-fig_date = px.bar(
-    df_fifa[df_fifa["PlayerPosition"] == ""], 
+col1.plotly_chart(fig_date_GK,use_container_width=True)
+col2.plotly_chart(fig_date_Gk_area,use_container_width=True)
+# col2.area_chart(df_GK, x="PlayerAge", y="PlayerRank", color="PlayerPosition",use_container_width=True)
+#endregion
+st.divider()
+#region Linha2
+col3, col4 = st.columns(2)
+df_defesa = df_fifa[df_fifa["Categoria"] == "Defesa"].groupby(by=["PlayerAge","PlayerPosition"])[["PlayerRank"]].count().reset_index()
+fig_date_defesa = px.bar(
+    df_defesa, 
     x="PlayerAge", 
-    y="PlayerPosition",
+    y="PlayerRank",
     color="PlayerPosition",
-    title="Idade por Posição",
+    title="Idade Defesa",
     orientation="v"
 )
-# st.plotly_chart(fig_date,use_container_width=True)
-
-fig_date = px.bar(
-    df_fifa[df_fifa["PlayerPosition"] == ""], 
+fig_date_defesa_area = px.area(
+    df_defesa, 
     x="PlayerAge", 
-    y="PlayerPosition",
+    y="PlayerRank",
     color="PlayerPosition",
-    title="Idade por Posição",
+    title="Agrupamento",
     orientation="v"
 )
-# st.plotly_chart(fig_date,use_container_width=True)
-
-
-fig_date = px.bar(
-    df_fifa[df_fifa["PlayerPosition"] == ""], 
+col3.plotly_chart(fig_date_defesa,use_container_width=True)
+col4.plotly_chart(fig_date_defesa_area,use_container_width=True)
+#col4.area_chart(df_defesa, x="PlayerAge", y="PlayerRank", color="PlayerPosition",use_container_width=True)
+#endregion
+st.divider()
+#region Linha3
+col5, col6 = st.columns(2)
+df_Meio = df_fifa[df_fifa["Categoria"] == "Meio Campo"].groupby(by=["PlayerAge","PlayerPosition"])[["PlayerRank"]].count().reset_index()
+fig_date_meio = px.bar(
+    df_Meio, 
     x="PlayerAge", 
-    y="PlayerPosition",
+    y="PlayerRank",
     color="PlayerPosition",
-    title="Idade por Posição",
+    title="Idade Meio Campistas",
     orientation="v"
 )
-# st.plotly_chart(fig_date,use_container_width=True)
 
-fig_date = px.bar(
-    df_fifa[df_fifa["PlayerPosition"] == ""], 
-    x="PlayerAge", 
+fig_scatter = px.scatter(
+    df_Meio,
+    x="PlayerAge",
     y="PlayerPosition",
+    size="PlayerRank",
+    color="PlayerRank",
+    title="Agrupamento"
+)
+
+
+col5.plotly_chart(fig_date_meio,use_container_width=True)
+col6.plotly_chart(fig_scatter, use_container_width=True)
+# col6.scatter_chart(df_Meio,
+#     x="PlayerAge",
+#     y="PlayerPosition",
+#     color="PlayerRank", 
+#     size="PlayerRank",
+#     use_container_width=True
+# )
+#endregion
+st.divider()
+#region Linha4
+col7, col8 = st.columns(2)
+df_Ataque = df_fifa[df_fifa["Categoria"] == "Ataque"].groupby(by=["PlayerAge","PlayerPosition"])[["PlayerRank"]].count().reset_index()
+fig_date_Ataque = px.bar(
+    df_Ataque, 
+    x="PlayerAge", 
+    y="PlayerRank",
     color="PlayerPosition",
-    title="Idade por Posição",
+    title="Idade Atacantes",
     orientation="v"
 )
-# st.plotly_chart(fig_date,use_container_width=True)
 
+fig_date_Bolha = px.scatter(
+    df_Ataque, 
+    x="PlayerAge",
+    y="PlayerRank",
+    size="PlayerRank",
+    color="PlayerPosition",
+    hover_name="PlayerPosition",
+    title="Agrupamento",
+    orientation="v"
+)
+
+
+col7.plotly_chart(fig_date_Ataque,use_container_width=True)
+
+
+col8.plotly_chart(fig_date_Bolha,use_container_width=True)
+#endregion
+st.divider()
+
+df_MediaOverall =  df_fifa.groupby(by=["PlayerAge","PlayerPosition"])[["PlayerOverall"]].mean().reset_index().round(2)
+df_QtdeOverall =  df_fifa.groupby(by=["PlayerAge","PlayerPosition"])[["PlayerOverall"]].count().reset_index()
+df_Overall = pd.merge(df_MediaOverall, df_QtdeOverall, on=["PlayerAge","PlayerPosition"], how='inner')
+
+fig_Overall = px.scatter(
+    df_Overall,
+    x="PlayerOverall_x",
+    y="PlayerAge",
+    color="PlayerPosition",
+    size="PlayerOverall_y"
+
+)
+
+
+st.plotly_chart(fig_Overall, use_container_width=True)
 
 st.button("Rerun")
