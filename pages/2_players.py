@@ -115,12 +115,22 @@ PlayerPhysicality = df_player["PlayerPhysicality"].iloc[0]
 StatsName = ["Pace","Shooting","Passing","Dribbling","Defending","Physicality"]
 StatsValues = [PlayerPace,PlayerShooting,PlayerPassing,PlayerDribbling,PlayerDefending,PlayerPhysicality]
 
-fig = go.Figure()
-fig.add_trace(go.Scatterpolar(r = StatsValues,
-                                theta = StatsName,
-                                fill = "toself",
-                                name= Nome
-                            ))
-                        # PlayerPace	PlayerShooting	PlayerPassing	PlayerDribbling	PlayerDefending	PlayerPhysicality
+# fig = go.Figure()
+fig = px.scatter_polar(r = range(StatsValues),
+                        theta = range(StatsName),
+                        # start_angle=90, 
+                        # range_theta=[0,100],
+                        fill = "toself",
+                        name= Nome,
+                        mode = 'markers'
+                    )
 
-col5.plotly_chart(fig,use_container_width=True)
+# fig2 = go.Figure()
+fig2 = px.scatter_polar(r=range(0,90,10), 
+                        theta=range(0,90,10),
+                        range_theta=[0,90], 
+                        start_angle=0, 
+                        direction="counterclockwise")
+col6.plotly_chart(fig2, theme="streamlit", use_container_width=True)
+
+col5.plotly_chart(fig, theme="streamlit", use_container_width=True)

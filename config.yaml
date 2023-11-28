@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    fbcalo:
+      email: fernandob.calo@outlook.com
+      name: Fernando B. Calo
+      password: $2b$12$lv0sdQDOmXSK58O9XXIzMuQFl/0bU1i3TLAUKwNPmIITwAV11UrKq
+cookie:
+  expiry_days: 30
+  key: some_signature_key # Must be string
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - nando15071992@hotmail.com
+
+  # abc
