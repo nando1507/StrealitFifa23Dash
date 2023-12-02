@@ -254,19 +254,22 @@ def Dashboard():
             "PlayerPosition": st.column_config.TextColumn("Posição"),
             "StyleName": st.column_config.TextColumn("Estilo"),
             "StyleURLImg": st.column_config.ImageColumn("Foto", width="small"),
+            "CdStyleTipo": st.column_config.TextColumn("Codigo de Estilo"),
             "NomeStyleTipo": st.column_config.TextColumn("Tipo de Estilo"),
-        }     ,
-        use_container_width=True   
+        }     
+        ,use_container_width=True   
     )
 
-    fig_Style = px.scatter(
-        df_JogadoresEstilos,
-        x="PlayerPosition",
-        y="StyleName",
-        color="PlayerPosition",
-        size="PlayerPosition",
+    # fig_Style = px.scatter(
+    #     df_JogadoresEstilos,
+    #     x="CdStyleTipo",
+    #     y="PlayerRank",
+    #     color="PlayerPosition",
+    #     size="PlayerPosition"
+    # )
 
-    )
+    # colEstilo2.plotly_chart(fig_Style, use_container_width=True)
+
 
 
 
