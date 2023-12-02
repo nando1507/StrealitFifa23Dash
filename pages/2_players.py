@@ -1,6 +1,5 @@
 import streamlit as st
-import requests
-from bs4 import BeautifulSoup
+from services import utils
 import plotly.express as px
 import plotly.graph_objects as go
 
@@ -18,18 +17,7 @@ st.set_page_config(
 st.write("# Fifa 23")
 st.write("## Jogadores")
 
-#Cotação Euro Atual
-url = 'https://www.google.com/search?client=firefox-b-d&q=converter+euro+para+real'
-header = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"}
-page = requests.get(url,headers=header)
-bs = BeautifulSoup(page.content, 'html.parser')
-# print(bs)
-atributos = {'class':'DFlfde SwHCTb'}
-valor = bs.find_all("span", attrs=atributos)[0]
-# print(valor)
-# print(valor.text)
-
-ValorEuroParaReais = float(valor.text.replace(",","."))
+ValorEuroParaReais = utils.ConsultaCotacaoMoeda()
 
 df = st.session_state["data"]
 
@@ -115,14 +103,14 @@ PlayerPhysicality = df_player["PlayerPhysicality"].iloc[0]
 StatsName = ["Pace","Shooting","Passing","Dribbling","Defending","Physicality"]
 StatsValues = [PlayerPace,PlayerShooting,PlayerPassing,PlayerDribbling,PlayerDefending,PlayerPhysicality]
 
-# fig = go.Figure()
-fig = px.scatter_polar(r = range(StatsValues),
-                        theta = range(StatsName),
+fig = go.Figure()
+fig = px.scatter_polar(r = StatsValues,
+                        theta = StatsName,
                         # start_angle=90, 
                         # range_theta=[0,100],
                         fill = "toself",
                         name= Nome,
-                        mode = 'markers'
+                        #mode = 'markers'
                     )
 
 # fig2 = go.Figure()

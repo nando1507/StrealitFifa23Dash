@@ -16,11 +16,12 @@ import yaml
 from yaml.loader import SafeLoader
 from dashboard import Dashboard
 
-# st.set_page_config(    
-#     page_title="Fifa Stats - Login",
-#     page_icon="🧊",
-#     layout="wide"
-# )
+st.set_page_config(    
+    page_title="Fifa Stats - Home",
+    page_icon="🧊",
+    layout="wide",
+    initial_sidebar_state="collapsed",
+)
 
 with open('config.yaml') as file:
     config = yaml.load(file, Loader=SafeLoader)
@@ -36,11 +37,9 @@ authenticator = stauth.Authenticate(
 
 authenticator.login('Login', 'main')
 if st.session_state["authentication_status"]:
-    # authenticator.
-    st.sidebar.write(f'Bem-Vindo *{st.session_state["name"]}*',True)
+    st.sidebar.write(f'Bem-Vindo *{st.session_state["name"]}*')
     st.sidebar.divider()
-    Dashboard()
-    
+    Dashboard()    
     authenticator.logout('Logout', 'main', key='unique_key')
     st.sidebar.button("Rerun")
 
