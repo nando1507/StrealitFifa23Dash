@@ -1,0 +1,622 @@
+,PlayerRank,StyleName,StyleURLImg,CdStyleTipo,NomeStyleTipo
+0,1,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/2dFFSztbQ5JLsDFekR56BR/89f3e906fdbb47f466abd34fac4583f7/physical_explosive_sprint_boost_plus.png,1,Plus
+1,1,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/4oeFQPAL2YlWlMy3qdhFb8/7a0840c4435e2e4374ef5c0d44b0d21b/ball_control_speed_dribbler.png,2,Simple
+2,1,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+3,1,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+4,2,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/2lj4TyShp90ZUBNn3W2Bg0/0b41437735a3da82d899c5fac50fe55d/ball_control_trap_master_plus.png,1,Plus
+5,2,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+6,2,TIKI TAKA,https://images.ctfassets.net/rs6bgs1g8dbr/5GMv390ocVCipO2G1qLoMs/4f0c4f68acf853f5b3deaaa25c892645/passing_tiki_taka_master.png,2,Simple
+7,2,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+8,2,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+9,2,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+10,2,PINGED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3tGWYjKe4SDbXb6eyfBHcC/858f2bc4f067939f49344cc4f67c48e0/passing_bullet_passes.png,2,Simple
+11,3,ACROBATIC,https://images.ctfassets.net/rs6bgs1g8dbr/2EcMpLBndCtGVTLOUOjTz0/7a39037d84a4382a446ea97403f665dd/physical_acrobatic_plus.png,1,Plus
+12,3,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/5zsUhtmr76X1fgAGf4wGFZ/778178591c1f3e3418f344974444c716/finishing_power_header.png,2,Simple
+13,3,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+14,4,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/HxJPKCTo2MxgtvhscL1cz/7edc15e88a69ab9b6d68e7d923dffbe5/passing_pass_into_space_plus.png,1,Plus
+15,4,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+16,4,PINGED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3tGWYjKe4SDbXb6eyfBHcC/858f2bc4f067939f49344cc4f67c48e0/passing_bullet_passes.png,2,Simple
+17,4,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/5j1c9rMtVKRh0MUtE8cBrJ/b28c692dd52a407c7f63921b9f8b0cdc/passing_whipped_crosses.png,2,Simple
+18,4,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/2aNS4h6QofFax4v7ulThvI/0109855d83dc3400d85de3c2c62be49f/finishing_fk_specialist.png,2,Simple
+19,4,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+20,5,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/4X3u0I9bUnjjUeReja5LU3/8c8e215adb66954c070c3a742b13126b/ball_control_technical_dribbler_plus.png,1,Plus
+21,5,PINGED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3tGWYjKe4SDbXb6eyfBHcC/858f2bc4f067939f49344cc4f67c48e0/passing_bullet_passes.png,2,Simple
+22,5,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+23,5,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+24,5,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+25,5,RELENTLESS,https://images.ctfassets.net/rs6bgs1g8dbr/3eNJjFMQdohNsBEOYt4ycd/620a3fa863267a8cebbe0813829ee9b5/physical_relentless.png,2,Simple
+26,5,TIKI TAKA,https://images.ctfassets.net/rs6bgs1g8dbr/5GMv390ocVCipO2G1qLoMs/4f0c4f68acf853f5b3deaaa25c892645/passing_tiki_taka_master.png,2,Simple
+27,6,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/4X3u0I9bUnjjUeReja5LU3/8c8e215adb66954c070c3a742b13126b/ball_control_technical_dribbler_plus.png,1,Plus
+28,6,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+29,6,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+30,6,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+31,6,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/2aNS4h6QofFax4v7ulThvI/0109855d83dc3400d85de3c2c62be49f/finishing_fk_specialist.png,2,Simple
+32,6,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+33,6,TIKI TAKA,https://images.ctfassets.net/rs6bgs1g8dbr/5GMv390ocVCipO2G1qLoMs/4f0c4f68acf853f5b3deaaa25c892645/passing_tiki_taka_master.png,2,Simple
+34,7,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/Gh3trGUWMQhFnQQsiX6Fd/76066da765fcb47a10cd55be96a1bcf3/finishing_power_header_plus.png,1,Plus
+35,7,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+36,7,ACROBATIC,https://images.ctfassets.net/rs6bgs1g8dbr/6VuizOLsa5QglVIM1MEU5l/cfdd063a5da0379a5ae12b722d51b394/physical_acrobatic.png,2,Simple
+37,7,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+38,7,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/4oeFQPAL2YlWlMy3qdhFb8/7a0840c4435e2e4374ef5c0d44b0d21b/ball_control_speed_dribbler.png,2,Simple
+39,7,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+40,8,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/6NfQXU3LPYNfxLmDgB5lN4/adb6d45e73410885618c49def0343b87/finishing_finesse_shot_plus.png,1,Plus
+41,8,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/2aNS4h6QofFax4v7ulThvI/0109855d83dc3400d85de3c2c62be49f/finishing_fk_specialist.png,2,Simple
+42,8,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+43,8,RELENTLESS,https://images.ctfassets.net/rs6bgs1g8dbr/3eNJjFMQdohNsBEOYt4ycd/620a3fa863267a8cebbe0813829ee9b5/physical_relentless.png,2,Simple
+44,8,TIKI TAKA,https://images.ctfassets.net/rs6bgs1g8dbr/5GMv390ocVCipO2G1qLoMs/4f0c4f68acf853f5b3deaaa25c892645/passing_tiki_taka_master.png,2,Simple
+45,8,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+46,8,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+47,10,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/HxJPKCTo2MxgtvhscL1cz/7edc15e88a69ab9b6d68e7d923dffbe5/passing_pass_into_space_plus.png,1,Plus
+48,10,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+49,10,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+50,10,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+51,11,TRICKSTER,https://images.ctfassets.net/rs6bgs1g8dbr/WernuDe1sysUfm84HVnmr/c9ff09dbf6647f5c2ce52dbdc9b23327/ball_control_trickster_plus.png,1,Plus
+52,11,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+53,11,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+54,11,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+55,11,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+56,11,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+57,11,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+58,12,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/Gh3trGUWMQhFnQQsiX6Fd/76066da765fcb47a10cd55be96a1bcf3/finishing_power_header_plus.png,1,Plus
+59,12,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+60,12,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+61,12,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+62,12,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+63,12,POWER SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/484Ib1DGnKLwIekNohgEAs/94073bea49a4f6c643733f27ca66689a/finishing_power_shot.png,2,Simple
+64,12,CHIP SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/2piJ84FhIDFMCvZocNUNjz/1118a939d9e196c6e156607c5712fc8a/finishing_chip_shot.png,2,Simple
+65,13,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/6NfQXU3LPYNfxLmDgB5lN4/adb6d45e73410885618c49def0343b87/finishing_finesse_shot_plus.png,1,Plus
+66,13,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/4oeFQPAL2YlWlMy3qdhFb8/7a0840c4435e2e4374ef5c0d44b0d21b/ball_control_speed_dribbler.png,2,Simple
+67,13,CHIP SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/2piJ84FhIDFMCvZocNUNjz/1118a939d9e196c6e156607c5712fc8a/finishing_chip_shot.png,2,Simple
+68,13,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+69,15,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/6ZPSfKDHpmkLHV6NwOaPsd/09c28430a05363cdeb78756e89f71311/defending_tackle_vision_plus.png,1,Plus
+70,15,SLIDE TACKLE,https://images.ctfassets.net/rs6bgs1g8dbr/XV8ckQxCJgtXMQinvkzKL/9a244ed1c790ee3288fdc9a0a9349d86/defending_slide_tackler.png,2,Simple
+71,15,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/HvdUoYYdbQzTUEeRMeHfC/d37b8ea0e8de23f31ab3a1a329157fa6/defending_brick_wall.png,2,Simple
+72,15,INTERCEPT,https://images.ctfassets.net/rs6bgs1g8dbr/3ql4uLcLezVYXvsyuMA9OW/9871490abacdb0725d1b5d10f4866b70/defending_intercepter.png,2,Simple
+73,15,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+74,15,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/44Zu6RANTWyFaiPsxtwjBZ/ae442f577d9e9eabeaf141ad14241051/defending_fast_jockey.png,2,Simple
+75,15,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+76,16,BRUISER,https://images.ctfassets.net/rs6bgs1g8dbr/2cwRCUHUlljuqXZmHkCzah/2998a7101af68a8691625d7ec5b15162/defending_bruiser_plus.png,1,Plus
+77,16,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/5zsUhtmr76X1fgAGf4wGFZ/778178591c1f3e3418f344974444c716/finishing_power_header.png,2,Simple
+78,16,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+79,16,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/HvdUoYYdbQzTUEeRMeHfC/d37b8ea0e8de23f31ab3a1a329157fa6/defending_brick_wall.png,2,Simple
+80,17,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/2dFFSztbQ5JLsDFekR56BR/89f3e906fdbb47f466abd34fac4583f7/physical_explosive_sprint_boost_plus.png,1,Plus
+81,17,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+82,17,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+83,17,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/4oeFQPAL2YlWlMy3qdhFb8/7a0840c4435e2e4374ef5c0d44b0d21b/ball_control_speed_dribbler.png,2,Simple
+84,17,CHIP SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/2piJ84FhIDFMCvZocNUNjz/1118a939d9e196c6e156607c5712fc8a/finishing_chip_shot.png,2,Simple
+85,17,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+86,17,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+87,18,POWER SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/59h9JTXYLEHBd1GcRv5kYU/1e3de40be539af6a78513ea99826ac75/finishing_power_shot_plus.png,1,Plus
+88,18,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+89,18,BRUISER,https://images.ctfassets.net/rs6bgs1g8dbr/5OdozEcqzYkX4RHAg4q2s1/a09636946370ee929c106466d5b06c10/defending_bruiser.png,2,Simple
+90,19,TRICKSTER,https://images.ctfassets.net/rs6bgs1g8dbr/WernuDe1sysUfm84HVnmr/c9ff09dbf6647f5c2ce52dbdc9b23327/ball_control_trickster_plus.png,1,Plus
+91,19,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+92,19,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+93,19,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+94,19,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+95,19,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+96,19,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+97,20,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/6NfQXU3LPYNfxLmDgB5lN4/adb6d45e73410885618c49def0343b87/finishing_finesse_shot_plus.png,1,Plus
+98,20,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/4oeFQPAL2YlWlMy3qdhFb8/7a0840c4435e2e4374ef5c0d44b0d21b/ball_control_speed_dribbler.png,2,Simple
+99,20,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+100,20,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+101,20,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+102,22,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/kiraaLWiOCtNj7utpofxR/b00060faf663d6ec800b562721abf7c8/physical_aerial_master_plus.png,1,Plus
+103,22,BRUISER,https://images.ctfassets.net/rs6bgs1g8dbr/5OdozEcqzYkX4RHAg4q2s1/a09636946370ee929c106466d5b06c10/defending_bruiser.png,2,Simple
+104,22,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/7u3A0XWs702onxZdImbR9/6d56866a7c36bbaa658f2626c86d5a00/defending_tackle_vision.png,2,Simple
+105,22,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/5zsUhtmr76X1fgAGf4wGFZ/778178591c1f3e3418f344974444c716/finishing_power_header.png,2,Simple
+106,22,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/HvdUoYYdbQzTUEeRMeHfC/d37b8ea0e8de23f31ab3a1a329157fa6/defending_brick_wall.png,2,Simple
+107,22,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/44Zu6RANTWyFaiPsxtwjBZ/ae442f577d9e9eabeaf141ad14241051/defending_fast_jockey.png,2,Simple
+108,22,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+109,25,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/6CrNsOWFQG5Z1ww1ppijTA/53438c3b35f6d5a3f2a127cf18a49669/defending_brick_wall_plus.png,1,Plus
+110,25,SLIDE TACKLE,https://images.ctfassets.net/rs6bgs1g8dbr/XV8ckQxCJgtXMQinvkzKL/9a244ed1c790ee3288fdc9a0a9349d86/defending_slide_tackler.png,2,Simple
+111,25,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+112,26,SLIDE TACKLE,https://images.ctfassets.net/rs6bgs1g8dbr/2lIweXHXSdEpvm4EMoiDMP/b39109af491195a3da1fd67f6a4ef90e/defending_slide_tackler_plus.png,1,Plus
+113,26,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+114,26,BRUISER,https://images.ctfassets.net/rs6bgs1g8dbr/5OdozEcqzYkX4RHAg4q2s1/a09636946370ee929c106466d5b06c10/defending_bruiser.png,2,Simple
+115,26,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/5zsUhtmr76X1fgAGf4wGFZ/778178591c1f3e3418f344974444c716/finishing_power_header.png,2,Simple
+116,26,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/44Zu6RANTWyFaiPsxtwjBZ/ae442f577d9e9eabeaf141ad14241051/defending_fast_jockey.png,2,Simple
+117,27,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/HxJPKCTo2MxgtvhscL1cz/7edc15e88a69ab9b6d68e7d923dffbe5/passing_pass_into_space_plus.png,1,Plus
+118,27,PINGED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3tGWYjKe4SDbXb6eyfBHcC/858f2bc4f067939f49344cc4f67c48e0/passing_bullet_passes.png,2,Simple
+119,27,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+120,27,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+121,27,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+122,27,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+123,28,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/6ZPSfKDHpmkLHV6NwOaPsd/09c28430a05363cdeb78756e89f71311/defending_tackle_vision_plus.png,1,Plus
+124,28,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/5zsUhtmr76X1fgAGf4wGFZ/778178591c1f3e3418f344974444c716/finishing_power_header.png,2,Simple
+125,28,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+126,28,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/44Zu6RANTWyFaiPsxtwjBZ/ae442f577d9e9eabeaf141ad14241051/defending_fast_jockey.png,2,Simple
+127,28,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+128,29,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/6NfQXU3LPYNfxLmDgB5lN4/adb6d45e73410885618c49def0343b87/finishing_finesse_shot_plus.png,1,Plus
+129,29,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+130,29,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+131,29,CHIP SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/2piJ84FhIDFMCvZocNUNjz/1118a939d9e196c6e156607c5712fc8a/finishing_chip_shot.png,2,Simple
+132,29,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+133,29,ACROBATIC,https://images.ctfassets.net/rs6bgs1g8dbr/6VuizOLsa5QglVIM1MEU5l/cfdd063a5da0379a5ae12b722d51b394/physical_acrobatic.png,2,Simple
+134,29,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+135,31,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/Gh3trGUWMQhFnQQsiX6Fd/76066da765fcb47a10cd55be96a1bcf3/finishing_power_header_plus.png,1,Plus
+136,31,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+137,31,ACROBATIC,https://images.ctfassets.net/rs6bgs1g8dbr/6VuizOLsa5QglVIM1MEU5l/cfdd063a5da0379a5ae12b722d51b394/physical_acrobatic.png,2,Simple
+138,31,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+139,31,BRUISER,https://images.ctfassets.net/rs6bgs1g8dbr/5OdozEcqzYkX4RHAg4q2s1/a09636946370ee929c106466d5b06c10/defending_bruiser.png,2,Simple
+140,32,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/4X3u0I9bUnjjUeReja5LU3/8c8e215adb66954c070c3a742b13126b/ball_control_technical_dribbler_plus.png,1,Plus
+141,32,ACROBATIC,https://images.ctfassets.net/rs6bgs1g8dbr/6VuizOLsa5QglVIM1MEU5l/cfdd063a5da0379a5ae12b722d51b394/physical_acrobatic.png,2,Simple
+142,32,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+143,32,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+144,32,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+145,32,TRICKSTER,https://images.ctfassets.net/rs6bgs1g8dbr/1w3wFwnMltHuyfEpynhfl4/44fd89eff43840b1607e37555de87303/ball_control_trickster.png,2,Simple
+146,32,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+147,33,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/4X3u0I9bUnjjUeReja5LU3/8c8e215adb66954c070c3a742b13126b/ball_control_technical_dribbler_plus.png,1,Plus
+148,33,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+149,33,TIKI TAKA,https://images.ctfassets.net/rs6bgs1g8dbr/5GMv390ocVCipO2G1qLoMs/4f0c4f68acf853f5b3deaaa25c892645/passing_tiki_taka_master.png,2,Simple
+150,33,RELENTLESS,https://images.ctfassets.net/rs6bgs1g8dbr/3eNJjFMQdohNsBEOYt4ycd/620a3fa863267a8cebbe0813829ee9b5/physical_relentless.png,2,Simple
+151,33,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+152,38,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/1l54t1VJEMGOjIs5048uou/5a82f29d1d0323f9d2bc0ec88a97a514/passing_lob_pass_master_plus.png,1,Plus
+153,38,PRESS PROVEN,https://images.ctfassets.net/rs6bgs1g8dbr/5WTecKoNuRrTXDxF3Jz6jH/42389b03e15b6ca0edb94af7ce769856/ball_control_possession_holder.png,2,Simple
+154,38,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/5j1c9rMtVKRh0MUtE8cBrJ/b28c692dd52a407c7f63921b9f8b0cdc/passing_whipped_crosses.png,2,Simple
+155,38,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/7u3A0XWs702onxZdImbR9/6d56866a7c36bbaa658f2626c86d5a00/defending_tackle_vision.png,2,Simple
+156,38,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/2aNS4h6QofFax4v7ulThvI/0109855d83dc3400d85de3c2c62be49f/finishing_fk_specialist.png,2,Simple
+157,38,RELENTLESS,https://images.ctfassets.net/rs6bgs1g8dbr/3eNJjFMQdohNsBEOYt4ycd/620a3fa863267a8cebbe0813829ee9b5/physical_relentless.png,2,Simple
+158,41,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/Gh3trGUWMQhFnQQsiX6Fd/76066da765fcb47a10cd55be96a1bcf3/finishing_power_header_plus.png,1,Plus
+159,41,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+160,41,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+161,41,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+162,41,PRESS PROVEN,https://images.ctfassets.net/rs6bgs1g8dbr/5WTecKoNuRrTXDxF3Jz6jH/42389b03e15b6ca0edb94af7ce769856/ball_control_possession_holder.png,2,Simple
+163,42,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/1l54t1VJEMGOjIs5048uou/5a82f29d1d0323f9d2bc0ec88a97a514/passing_lob_pass_master_plus.png,1,Plus
+164,42,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+165,42,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+166,42,TIKI TAKA,https://images.ctfassets.net/rs6bgs1g8dbr/5GMv390ocVCipO2G1qLoMs/4f0c4f68acf853f5b3deaaa25c892645/passing_tiki_taka_master.png,2,Simple
+167,42,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+168,42,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+169,42,PRESS PROVEN,https://images.ctfassets.net/rs6bgs1g8dbr/5WTecKoNuRrTXDxF3Jz6jH/42389b03e15b6ca0edb94af7ce769856/ball_control_possession_holder.png,2,Simple
+170,43,TRICKSTER,https://images.ctfassets.net/rs6bgs1g8dbr/WernuDe1sysUfm84HVnmr/c9ff09dbf6647f5c2ce52dbdc9b23327/ball_control_trickster_plus.png,1,Plus
+171,43,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+172,43,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+173,43,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+174,43,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/5j1c9rMtVKRh0MUtE8cBrJ/b28c692dd52a407c7f63921b9f8b0cdc/passing_whipped_crosses.png,2,Simple
+175,44,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/5wNM16fBvbdu0kSrX5XGD0/0a65e7b45306605883bc5cbc4677ee2f/physical_outside_foot_plus.png,1,Plus
+176,44,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+177,44,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+178,44,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+179,44,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/5j1c9rMtVKRh0MUtE8cBrJ/b28c692dd52a407c7f63921b9f8b0cdc/passing_whipped_crosses.png,2,Simple
+180,46,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/5wNM16fBvbdu0kSrX5XGD0/0a65e7b45306605883bc5cbc4677ee2f/physical_outside_foot_plus.png,1,Plus
+181,46,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+182,46,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+183,46,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+184,46,PRESS PROVEN,https://images.ctfassets.net/rs6bgs1g8dbr/5WTecKoNuRrTXDxF3Jz6jH/42389b03e15b6ca0edb94af7ce769856/ball_control_possession_holder.png,2,Simple
+185,46,TIKI TAKA,https://images.ctfassets.net/rs6bgs1g8dbr/5GMv390ocVCipO2G1qLoMs/4f0c4f68acf853f5b3deaaa25c892645/passing_tiki_taka_master.png,2,Simple
+186,46,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+187,50,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/HxJPKCTo2MxgtvhscL1cz/7edc15e88a69ab9b6d68e7d923dffbe5/passing_pass_into_space_plus.png,1,Plus
+188,50,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+189,50,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+190,50,PINGED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3tGWYjKe4SDbXb6eyfBHcC/858f2bc4f067939f49344cc4f67c48e0/passing_bullet_passes.png,2,Simple
+191,50,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/5j1c9rMtVKRh0MUtE8cBrJ/b28c692dd52a407c7f63921b9f8b0cdc/passing_whipped_crosses.png,2,Simple
+192,50,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+193,50,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+194,52,BRUISER,https://images.ctfassets.net/rs6bgs1g8dbr/2cwRCUHUlljuqXZmHkCzah/2998a7101af68a8691625d7ec5b15162/defending_bruiser_plus.png,1,Plus
+195,52,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/7u3A0XWs702onxZdImbR9/6d56866a7c36bbaa658f2626c86d5a00/defending_tackle_vision.png,2,Simple
+196,52,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+197,52,PRESS PROVEN,https://images.ctfassets.net/rs6bgs1g8dbr/5WTecKoNuRrTXDxF3Jz6jH/42389b03e15b6ca0edb94af7ce769856/ball_control_possession_holder.png,2,Simple
+198,52,SLIDE TACKLE,https://images.ctfassets.net/rs6bgs1g8dbr/XV8ckQxCJgtXMQinvkzKL/9a244ed1c790ee3288fdc9a0a9349d86/defending_slide_tackler.png,2,Simple
+199,52,POWER SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/484Ib1DGnKLwIekNohgEAs/94073bea49a4f6c643733f27ca66689a/finishing_power_shot.png,2,Simple
+200,52,INTERCEPT,https://images.ctfassets.net/rs6bgs1g8dbr/3ql4uLcLezVYXvsyuMA9OW/9871490abacdb0725d1b5d10f4866b70/defending_intercepter.png,2,Simple
+201,54,INTERCEPT,https://images.ctfassets.net/rs6bgs1g8dbr/2c2XOCtXmkR2awbH94aUdI/72957e476317ff78d22c2676c2b19830/defending_intercepter_plus.png,1,Plus
+202,54,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+203,54,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/44Zu6RANTWyFaiPsxtwjBZ/ae442f577d9e9eabeaf141ad14241051/defending_fast_jockey.png,2,Simple
+204,54,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/5zsUhtmr76X1fgAGf4wGFZ/778178591c1f3e3418f344974444c716/finishing_power_header.png,2,Simple
+205,54,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/7u3A0XWs702onxZdImbR9/6d56866a7c36bbaa658f2626c86d5a00/defending_tackle_vision.png,2,Simple
+206,56,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/6NfQXU3LPYNfxLmDgB5lN4/adb6d45e73410885618c49def0343b87/finishing_finesse_shot_plus.png,1,Plus
+207,56,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/4oeFQPAL2YlWlMy3qdhFb8/7a0840c4435e2e4374ef5c0d44b0d21b/ball_control_speed_dribbler.png,2,Simple
+208,56,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+209,57,PINGED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/22QMlYzSeUUNPHnnA2KFl1/224f695d2fae463accf63ad06b59fc6e/passing_bullet_passes_plus.png,1,Plus
+210,57,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+211,57,TIKI TAKA,https://images.ctfassets.net/rs6bgs1g8dbr/5GMv390ocVCipO2G1qLoMs/4f0c4f68acf853f5b3deaaa25c892645/passing_tiki_taka_master.png,2,Simple
+212,57,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+213,57,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+214,61,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/2uAdMLzeN3fxNTEkiX1bCG/78726fff0d3e14b95d967ae25db81905/ball_control_speed_dribbler_plus.png,1,Plus
+215,61,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+216,61,TRICKSTER,https://images.ctfassets.net/rs6bgs1g8dbr/1w3wFwnMltHuyfEpynhfl4/44fd89eff43840b1607e37555de87303/ball_control_trickster.png,2,Simple
+217,61,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+218,62,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/58uhpLQGeDtUy10dnwHUS8/b29b84d2e24eaa35219295367e092cac/passing_whipped_crosses_plus.png,1,Plus
+219,62,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+220,62,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/HvdUoYYdbQzTUEeRMeHfC/d37b8ea0e8de23f31ab3a1a329157fa6/defending_brick_wall.png,2,Simple
+221,62,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/2aNS4h6QofFax4v7ulThvI/0109855d83dc3400d85de3c2c62be49f/finishing_fk_specialist.png,2,Simple
+222,62,RELENTLESS,https://images.ctfassets.net/rs6bgs1g8dbr/3eNJjFMQdohNsBEOYt4ycd/620a3fa863267a8cebbe0813829ee9b5/physical_relentless.png,2,Simple
+223,62,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/7u3A0XWs702onxZdImbR9/6d56866a7c36bbaa658f2626c86d5a00/defending_tackle_vision.png,2,Simple
+224,62,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+225,65,RELENTLESS,https://images.ctfassets.net/rs6bgs1g8dbr/3NZgHhXOl7LlUmWvaBAR03/045eb8a726dd5c7848fa2ac9c60238a3/physical_relentless_plus.png,1,Plus
+226,65,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+227,65,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+228,65,INTERCEPT,https://images.ctfassets.net/rs6bgs1g8dbr/3ql4uLcLezVYXvsyuMA9OW/9871490abacdb0725d1b5d10f4866b70/defending_intercepter.png,2,Simple
+229,65,SLIDE TACKLE,https://images.ctfassets.net/rs6bgs1g8dbr/XV8ckQxCJgtXMQinvkzKL/9a244ed1c790ee3288fdc9a0a9349d86/defending_slide_tackler.png,2,Simple
+230,66,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/2uAdMLzeN3fxNTEkiX1bCG/78726fff0d3e14b95d967ae25db81905/ball_control_speed_dribbler_plus.png,1,Plus
+231,66,TRICKSTER,https://images.ctfassets.net/rs6bgs1g8dbr/1w3wFwnMltHuyfEpynhfl4/44fd89eff43840b1607e37555de87303/ball_control_trickster.png,2,Simple
+232,66,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+233,66,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+234,66,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/5j1c9rMtVKRh0MUtE8cBrJ/b28c692dd52a407c7f63921b9f8b0cdc/passing_whipped_crosses.png,2,Simple
+235,66,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+236,67,TIKI TAKA,https://images.ctfassets.net/rs6bgs1g8dbr/5jLNq8IEynU1C2TvcGIq8V/ef0e4631cc4335d8cbc3d04ed97ec8b1/passing_tiki_taka_master_plus.png,1,Plus
+237,67,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+238,67,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+239,67,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+240,67,RELENTLESS,https://images.ctfassets.net/rs6bgs1g8dbr/3eNJjFMQdohNsBEOYt4ycd/620a3fa863267a8cebbe0813829ee9b5/physical_relentless.png,2,Simple
+241,67,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+242,68,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/58uhpLQGeDtUy10dnwHUS8/b29b84d2e24eaa35219295367e092cac/passing_whipped_crosses_plus.png,1,Plus
+243,68,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+244,68,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+245,68,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+246,68,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+247,68,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/4oeFQPAL2YlWlMy3qdhFb8/7a0840c4435e2e4374ef5c0d44b0d21b/ball_control_speed_dribbler.png,2,Simple
+248,69,SLIDE TACKLE,https://images.ctfassets.net/rs6bgs1g8dbr/2lIweXHXSdEpvm4EMoiDMP/b39109af491195a3da1fd67f6a4ef90e/defending_slide_tackler_plus.png,1,Plus
+249,69,BRUISER,https://images.ctfassets.net/rs6bgs1g8dbr/5OdozEcqzYkX4RHAg4q2s1/a09636946370ee929c106466d5b06c10/defending_bruiser.png,2,Simple
+250,69,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+251,69,POWER SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/484Ib1DGnKLwIekNohgEAs/94073bea49a4f6c643733f27ca66689a/finishing_power_shot.png,2,Simple
+252,69,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/HvdUoYYdbQzTUEeRMeHfC/d37b8ea0e8de23f31ab3a1a329157fa6/defending_brick_wall.png,2,Simple
+253,71,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/2lj4TyShp90ZUBNn3W2Bg0/0b41437735a3da82d899c5fac50fe55d/ball_control_trap_master_plus.png,1,Plus
+254,71,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+255,71,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+256,71,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+257,72,RELENTLESS,https://images.ctfassets.net/rs6bgs1g8dbr/3NZgHhXOl7LlUmWvaBAR03/045eb8a726dd5c7848fa2ac9c60238a3/physical_relentless_plus.png,1,Plus
+258,72,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+259,73,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/4X3u0I9bUnjjUeReja5LU3/8c8e215adb66954c070c3a742b13126b/ball_control_technical_dribbler_plus.png,1,Plus
+260,73,TRICKSTER,https://images.ctfassets.net/rs6bgs1g8dbr/1w3wFwnMltHuyfEpynhfl4/44fd89eff43840b1607e37555de87303/ball_control_trickster.png,2,Simple
+261,73,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+262,73,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+263,74,RELENTLESS,https://images.ctfassets.net/rs6bgs1g8dbr/3NZgHhXOl7LlUmWvaBAR03/045eb8a726dd5c7848fa2ac9c60238a3/physical_relentless_plus.png,1,Plus
+264,74,TIKI TAKA,https://images.ctfassets.net/rs6bgs1g8dbr/5GMv390ocVCipO2G1qLoMs/4f0c4f68acf853f5b3deaaa25c892645/passing_tiki_taka_master.png,2,Simple
+265,74,SLIDE TACKLE,https://images.ctfassets.net/rs6bgs1g8dbr/XV8ckQxCJgtXMQinvkzKL/9a244ed1c790ee3288fdc9a0a9349d86/defending_slide_tackler.png,2,Simple
+266,76,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/6CrNsOWFQG5Z1ww1ppijTA/53438c3b35f6d5a3f2a127cf18a49669/defending_brick_wall_plus.png,1,Plus
+267,76,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/5zsUhtmr76X1fgAGf4wGFZ/778178591c1f3e3418f344974444c716/finishing_power_header.png,2,Simple
+268,76,SLIDE TACKLE,https://images.ctfassets.net/rs6bgs1g8dbr/XV8ckQxCJgtXMQinvkzKL/9a244ed1c790ee3288fdc9a0a9349d86/defending_slide_tackler.png,2,Simple
+269,76,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/44Zu6RANTWyFaiPsxtwjBZ/ae442f577d9e9eabeaf141ad14241051/defending_fast_jockey.png,2,Simple
+270,76,ACROBATIC,https://images.ctfassets.net/rs6bgs1g8dbr/6VuizOLsa5QglVIM1MEU5l/cfdd063a5da0379a5ae12b722d51b394/physical_acrobatic.png,2,Simple
+271,76,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/7u3A0XWs702onxZdImbR9/6d56866a7c36bbaa658f2626c86d5a00/defending_tackle_vision.png,2,Simple
+272,77,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/2qZufTB6YHpTOuil3dugxB/3fd49c8dac01d6032732918eb90b8412/ball_control_flair_plus.png,1,Plus
+273,77,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+274,77,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+275,77,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+276,77,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+277,77,ACROBATIC,https://images.ctfassets.net/rs6bgs1g8dbr/6VuizOLsa5QglVIM1MEU5l/cfdd063a5da0379a5ae12b722d51b394/physical_acrobatic.png,2,Simple
+278,77,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/2aNS4h6QofFax4v7ulThvI/0109855d83dc3400d85de3c2c62be49f/finishing_fk_specialist.png,2,Simple
+279,82,RELENTLESS,https://images.ctfassets.net/rs6bgs1g8dbr/3NZgHhXOl7LlUmWvaBAR03/045eb8a726dd5c7848fa2ac9c60238a3/physical_relentless_plus.png,1,Plus
+280,82,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/4oeFQPAL2YlWlMy3qdhFb8/7a0840c4435e2e4374ef5c0d44b0d21b/ball_control_speed_dribbler.png,2,Simple
+281,82,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/5j1c9rMtVKRh0MUtE8cBrJ/b28c692dd52a407c7f63921b9f8b0cdc/passing_whipped_crosses.png,2,Simple
+282,83,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/1l54t1VJEMGOjIs5048uou/5a82f29d1d0323f9d2bc0ec88a97a514/passing_lob_pass_master_plus.png,1,Plus
+283,83,PINGED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3tGWYjKe4SDbXb6eyfBHcC/858f2bc4f067939f49344cc4f67c48e0/passing_bullet_passes.png,2,Simple
+284,83,PRESS PROVEN,https://images.ctfassets.net/rs6bgs1g8dbr/5WTecKoNuRrTXDxF3Jz6jH/42389b03e15b6ca0edb94af7ce769856/ball_control_possession_holder.png,2,Simple
+285,83,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/2aNS4h6QofFax4v7ulThvI/0109855d83dc3400d85de3c2c62be49f/finishing_fk_specialist.png,2,Simple
+286,86,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/1l54t1VJEMGOjIs5048uou/5a82f29d1d0323f9d2bc0ec88a97a514/passing_lob_pass_master_plus.png,1,Plus
+287,86,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+288,86,PRESS PROVEN,https://images.ctfassets.net/rs6bgs1g8dbr/5WTecKoNuRrTXDxF3Jz6jH/42389b03e15b6ca0edb94af7ce769856/ball_control_possession_holder.png,2,Simple
+289,86,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/2aNS4h6QofFax4v7ulThvI/0109855d83dc3400d85de3c2c62be49f/finishing_fk_specialist.png,2,Simple
+290,86,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/5j1c9rMtVKRh0MUtE8cBrJ/b28c692dd52a407c7f63921b9f8b0cdc/passing_whipped_crosses.png,2,Simple
+291,86,INTERCEPT,https://images.ctfassets.net/rs6bgs1g8dbr/3ql4uLcLezVYXvsyuMA9OW/9871490abacdb0725d1b5d10f4866b70/defending_intercepter.png,2,Simple
+292,87,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/1l54t1VJEMGOjIs5048uou/5a82f29d1d0323f9d2bc0ec88a97a514/passing_lob_pass_master_plus.png,1,Plus
+293,87,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/2aNS4h6QofFax4v7ulThvI/0109855d83dc3400d85de3c2c62be49f/finishing_fk_specialist.png,2,Simple
+294,87,POWER SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/484Ib1DGnKLwIekNohgEAs/94073bea49a4f6c643733f27ca66689a/finishing_power_shot.png,2,Simple
+295,87,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+296,87,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+297,90,INTERCEPT,https://images.ctfassets.net/rs6bgs1g8dbr/2c2XOCtXmkR2awbH94aUdI/72957e476317ff78d22c2676c2b19830/defending_intercepter_plus.png,1,Plus
+298,90,RELENTLESS,https://images.ctfassets.net/rs6bgs1g8dbr/3eNJjFMQdohNsBEOYt4ycd/620a3fa863267a8cebbe0813829ee9b5/physical_relentless.png,2,Simple
+299,91,PRESS PROVEN,https://images.ctfassets.net/rs6bgs1g8dbr/4rzIsQoV5h1RNQcjrSvQta/68cdb64d8129be4b17da8ac2f4de1a23/ball_control_possession_holder_plus.png,1,Plus
+300,91,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+301,94,POWER SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/59h9JTXYLEHBd1GcRv5kYU/1e3de40be539af6a78513ea99826ac75/finishing_power_shot_plus.png,1,Plus
+302,94,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/5zsUhtmr76X1fgAGf4wGFZ/778178591c1f3e3418f344974444c716/finishing_power_header.png,2,Simple
+303,94,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+304,94,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+305,94,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+306,94,ACROBATIC,https://images.ctfassets.net/rs6bgs1g8dbr/6VuizOLsa5QglVIM1MEU5l/cfdd063a5da0379a5ae12b722d51b394/physical_acrobatic.png,2,Simple
+307,95,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/1l54t1VJEMGOjIs5048uou/5a82f29d1d0323f9d2bc0ec88a97a514/passing_lob_pass_master_plus.png,1,Plus
+308,95,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/2aNS4h6QofFax4v7ulThvI/0109855d83dc3400d85de3c2c62be49f/finishing_fk_specialist.png,2,Simple
+309,95,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/5j1c9rMtVKRh0MUtE8cBrJ/b28c692dd52a407c7f63921b9f8b0cdc/passing_whipped_crosses.png,2,Simple
+310,96,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/1UpdaynujixnqWQ6gEuAus/bb238f2ecc31573e651c22d0f14e9a70/defending_fast_jockey_plus.png,1,Plus
+311,96,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+312,96,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+313,96,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/5j1c9rMtVKRh0MUtE8cBrJ/b28c692dd52a407c7f63921b9f8b0cdc/passing_whipped_crosses.png,2,Simple
+314,100,PRESS PROVEN,https://images.ctfassets.net/rs6bgs1g8dbr/4rzIsQoV5h1RNQcjrSvQta/68cdb64d8129be4b17da8ac2f4de1a23/ball_control_possession_holder_plus.png,1,Plus
+315,100,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+316,100,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+317,100,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+318,103,CHIP SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/nzE22LuZI1tP4VfHa8PVf/53d50bab09f6011dca8f402f67c9a990/finishing_chip_shot_plus.png,1,Plus
+319,103,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+320,103,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/2aNS4h6QofFax4v7ulThvI/0109855d83dc3400d85de3c2c62be49f/finishing_fk_specialist.png,2,Simple
+321,103,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+322,103,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+323,108,BRUISER,https://images.ctfassets.net/rs6bgs1g8dbr/2cwRCUHUlljuqXZmHkCzah/2998a7101af68a8691625d7ec5b15162/defending_bruiser_plus.png,1,Plus
+324,108,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+325,108,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+326,108,INTERCEPT,https://images.ctfassets.net/rs6bgs1g8dbr/3ql4uLcLezVYXvsyuMA9OW/9871490abacdb0725d1b5d10f4866b70/defending_intercepter.png,2,Simple
+327,108,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/5zsUhtmr76X1fgAGf4wGFZ/778178591c1f3e3418f344974444c716/finishing_power_header.png,2,Simple
+328,108,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/7u3A0XWs702onxZdImbR9/6d56866a7c36bbaa658f2626c86d5a00/defending_tackle_vision.png,2,Simple
+329,109,SLIDE TACKLE,https://images.ctfassets.net/rs6bgs1g8dbr/2lIweXHXSdEpvm4EMoiDMP/b39109af491195a3da1fd67f6a4ef90e/defending_slide_tackler_plus.png,1,Plus
+330,109,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/7u3A0XWs702onxZdImbR9/6d56866a7c36bbaa658f2626c86d5a00/defending_tackle_vision.png,2,Simple
+331,109,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/44Zu6RANTWyFaiPsxtwjBZ/ae442f577d9e9eabeaf141ad14241051/defending_fast_jockey.png,2,Simple
+332,109,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+333,109,INTERCEPT,https://images.ctfassets.net/rs6bgs1g8dbr/3ql4uLcLezVYXvsyuMA9OW/9871490abacdb0725d1b5d10f4866b70/defending_intercepter.png,2,Simple
+334,117,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/1UpdaynujixnqWQ6gEuAus/bb238f2ecc31573e651c22d0f14e9a70/defending_fast_jockey_plus.png,1,Plus
+335,117,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/7u3A0XWs702onxZdImbR9/6d56866a7c36bbaa658f2626c86d5a00/defending_tackle_vision.png,2,Simple
+336,117,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+337,117,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/HvdUoYYdbQzTUEeRMeHfC/d37b8ea0e8de23f31ab3a1a329157fa6/defending_brick_wall.png,2,Simple
+338,117,PRESS PROVEN,https://images.ctfassets.net/rs6bgs1g8dbr/5WTecKoNuRrTXDxF3Jz6jH/42389b03e15b6ca0edb94af7ce769856/ball_control_possession_holder.png,2,Simple
+339,117,PINGED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3tGWYjKe4SDbXb6eyfBHcC/858f2bc4f067939f49344cc4f67c48e0/passing_bullet_passes.png,2,Simple
+340,118,POWER SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/59h9JTXYLEHBd1GcRv5kYU/1e3de40be539af6a78513ea99826ac75/finishing_power_shot_plus.png,1,Plus
+341,118,PINGED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3tGWYjKe4SDbXb6eyfBHcC/858f2bc4f067939f49344cc4f67c48e0/passing_bullet_passes.png,2,Simple
+342,118,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+343,118,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+344,122,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/1UpdaynujixnqWQ6gEuAus/bb238f2ecc31573e651c22d0f14e9a70/defending_fast_jockey_plus.png,1,Plus
+345,122,SLIDE TACKLE,https://images.ctfassets.net/rs6bgs1g8dbr/XV8ckQxCJgtXMQinvkzKL/9a244ed1c790ee3288fdc9a0a9349d86/defending_slide_tackler.png,2,Simple
+346,122,RELENTLESS,https://images.ctfassets.net/rs6bgs1g8dbr/3eNJjFMQdohNsBEOYt4ycd/620a3fa863267a8cebbe0813829ee9b5/physical_relentless.png,2,Simple
+347,122,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+348,131,POWER SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/59h9JTXYLEHBd1GcRv5kYU/1e3de40be539af6a78513ea99826ac75/finishing_power_shot_plus.png,1,Plus
+349,131,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+350,131,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+351,131,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+352,133,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/kiraaLWiOCtNj7utpofxR/b00060faf663d6ec800b562721abf7c8/physical_aerial_master_plus.png,1,Plus
+353,133,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/HvdUoYYdbQzTUEeRMeHfC/d37b8ea0e8de23f31ab3a1a329157fa6/defending_brick_wall.png,2,Simple
+354,134,INTERCEPT,https://images.ctfassets.net/rs6bgs1g8dbr/2c2XOCtXmkR2awbH94aUdI/72957e476317ff78d22c2676c2b19830/defending_intercepter_plus.png,1,Plus
+355,134,BRUISER,https://images.ctfassets.net/rs6bgs1g8dbr/5OdozEcqzYkX4RHAg4q2s1/a09636946370ee929c106466d5b06c10/defending_bruiser.png,2,Simple
+356,134,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/44Zu6RANTWyFaiPsxtwjBZ/ae442f577d9e9eabeaf141ad14241051/defending_fast_jockey.png,2,Simple
+357,135,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/kiraaLWiOCtNj7utpofxR/b00060faf663d6ec800b562721abf7c8/physical_aerial_master_plus.png,1,Plus
+358,135,PRESS PROVEN,https://images.ctfassets.net/rs6bgs1g8dbr/5WTecKoNuRrTXDxF3Jz6jH/42389b03e15b6ca0edb94af7ce769856/ball_control_possession_holder.png,2,Simple
+359,141,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/58uhpLQGeDtUy10dnwHUS8/b29b84d2e24eaa35219295367e092cac/passing_whipped_crosses_plus.png,1,Plus
+360,141,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/2aNS4h6QofFax4v7ulThvI/0109855d83dc3400d85de3c2c62be49f/finishing_fk_specialist.png,2,Simple
+361,141,LONG THROW,https://images.ctfassets.net/rs6bgs1g8dbr/38TKzOflnuyRvaX2ayTUO2/2b08ed8fadee8692ad200899dff5f25d/physical_throw_in_specialist.png,2,Simple
+362,142,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/6ZPSfKDHpmkLHV6NwOaPsd/09c28430a05363cdeb78756e89f71311/defending_tackle_vision_plus.png,1,Plus
+363,142,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+364,144,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/1l54t1VJEMGOjIs5048uou/5a82f29d1d0323f9d2bc0ec88a97a514/passing_lob_pass_master_plus.png,1,Plus
+365,144,BRUISER,https://images.ctfassets.net/rs6bgs1g8dbr/5OdozEcqzYkX4RHAg4q2s1/a09636946370ee929c106466d5b06c10/defending_bruiser.png,2,Simple
+366,144,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/7u3A0XWs702onxZdImbR9/6d56866a7c36bbaa658f2626c86d5a00/defending_tackle_vision.png,2,Simple
+367,144,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/44Zu6RANTWyFaiPsxtwjBZ/ae442f577d9e9eabeaf141ad14241051/defending_fast_jockey.png,2,Simple
+368,147,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/2lj4TyShp90ZUBNn3W2Bg0/0b41437735a3da82d899c5fac50fe55d/ball_control_trap_master_plus.png,1,Plus
+369,147,PINGED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3tGWYjKe4SDbXb6eyfBHcC/858f2bc4f067939f49344cc4f67c48e0/passing_bullet_passes.png,2,Simple
+370,147,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+371,147,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+372,147,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+373,147,SLIDE TACKLE,https://images.ctfassets.net/rs6bgs1g8dbr/XV8ckQxCJgtXMQinvkzKL/9a244ed1c790ee3288fdc9a0a9349d86/defending_slide_tackler.png,2,Simple
+374,147,TIKI TAKA,https://images.ctfassets.net/rs6bgs1g8dbr/5GMv390ocVCipO2G1qLoMs/4f0c4f68acf853f5b3deaaa25c892645/passing_tiki_taka_master.png,2,Simple
+375,152,TIKI TAKA,https://images.ctfassets.net/rs6bgs1g8dbr/5jLNq8IEynU1C2TvcGIq8V/ef0e4631cc4335d8cbc3d04ed97ec8b1/passing_tiki_taka_master_plus.png,1,Plus
+376,152,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+377,152,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+378,152,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+379,152,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+380,152,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+381,152,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+382,156,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/2dFFSztbQ5JLsDFekR56BR/89f3e906fdbb47f466abd34fac4583f7/physical_explosive_sprint_boost_plus.png,1,Plus
+383,156,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+384,156,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+385,156,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+386,158,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/2uAdMLzeN3fxNTEkiX1bCG/78726fff0d3e14b95d967ae25db81905/ball_control_speed_dribbler_plus.png,1,Plus
+387,158,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+388,158,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+389,158,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+390,158,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+391,159,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/6ZPSfKDHpmkLHV6NwOaPsd/09c28430a05363cdeb78756e89f71311/defending_tackle_vision_plus.png,1,Plus
+392,159,ACROBATIC,https://images.ctfassets.net/rs6bgs1g8dbr/6VuizOLsa5QglVIM1MEU5l/cfdd063a5da0379a5ae12b722d51b394/physical_acrobatic.png,2,Simple
+393,159,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+394,159,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/HvdUoYYdbQzTUEeRMeHfC/d37b8ea0e8de23f31ab3a1a329157fa6/defending_brick_wall.png,2,Simple
+395,159,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/5zsUhtmr76X1fgAGf4wGFZ/778178591c1f3e3418f344974444c716/finishing_power_header.png,2,Simple
+396,165,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/2dFFSztbQ5JLsDFekR56BR/89f3e906fdbb47f466abd34fac4583f7/physical_explosive_sprint_boost_plus.png,1,Plus
+397,165,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/4oeFQPAL2YlWlMy3qdhFb8/7a0840c4435e2e4374ef5c0d44b0d21b/ball_control_speed_dribbler.png,2,Simple
+398,165,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+399,169,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/6ZPSfKDHpmkLHV6NwOaPsd/09c28430a05363cdeb78756e89f71311/defending_tackle_vision_plus.png,1,Plus
+400,169,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+401,169,INTERCEPT,https://images.ctfassets.net/rs6bgs1g8dbr/3ql4uLcLezVYXvsyuMA9OW/9871490abacdb0725d1b5d10f4866b70/defending_intercepter.png,2,Simple
+402,180,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/2qZufTB6YHpTOuil3dugxB/3fd49c8dac01d6032732918eb90b8412/ball_control_flair_plus.png,1,Plus
+403,180,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+404,180,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+405,180,POWER SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/484Ib1DGnKLwIekNohgEAs/94073bea49a4f6c643733f27ca66689a/finishing_power_shot.png,2,Simple
+406,180,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+407,184,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/6ZPSfKDHpmkLHV6NwOaPsd/09c28430a05363cdeb78756e89f71311/defending_tackle_vision_plus.png,1,Plus
+408,184,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+409,185,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/1UpdaynujixnqWQ6gEuAus/bb238f2ecc31573e651c22d0f14e9a70/defending_fast_jockey_plus.png,1,Plus
+410,185,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/5j1c9rMtVKRh0MUtE8cBrJ/b28c692dd52a407c7f63921b9f8b0cdc/passing_whipped_crosses.png,2,Simple
+411,185,BRUISER,https://images.ctfassets.net/rs6bgs1g8dbr/5OdozEcqzYkX4RHAg4q2s1/a09636946370ee929c106466d5b06c10/defending_bruiser.png,2,Simple
+412,186,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/58uhpLQGeDtUy10dnwHUS8/b29b84d2e24eaa35219295367e092cac/passing_whipped_crosses_plus.png,1,Plus
+413,186,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+414,186,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+415,186,TRICKSTER,https://images.ctfassets.net/rs6bgs1g8dbr/1w3wFwnMltHuyfEpynhfl4/44fd89eff43840b1607e37555de87303/ball_control_trickster.png,2,Simple
+416,186,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+417,186,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/2aNS4h6QofFax4v7ulThvI/0109855d83dc3400d85de3c2c62be49f/finishing_fk_specialist.png,2,Simple
+418,196,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/618mhBZk79LzRePoYhV1Cq/ce1a4d1aae09f8d1e7d1ed3d7af17d25/finishing_fk_specialist_plus.png,1,Plus
+419,196,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+420,196,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+421,196,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+422,196,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+423,197,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/58uhpLQGeDtUy10dnwHUS8/b29b84d2e24eaa35219295367e092cac/passing_whipped_crosses_plus.png,1,Plus
+424,197,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+425,197,TIKI TAKA,https://images.ctfassets.net/rs6bgs1g8dbr/5GMv390ocVCipO2G1qLoMs/4f0c4f68acf853f5b3deaaa25c892645/passing_tiki_taka_master.png,2,Simple
+426,197,ACROBATIC,https://images.ctfassets.net/rs6bgs1g8dbr/6VuizOLsa5QglVIM1MEU5l/cfdd063a5da0379a5ae12b722d51b394/physical_acrobatic.png,2,Simple
+427,197,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+428,197,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+429,197,TRICKSTER,https://images.ctfassets.net/rs6bgs1g8dbr/1w3wFwnMltHuyfEpynhfl4/44fd89eff43840b1607e37555de87303/ball_control_trickster.png,2,Simple
+430,212,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/2dFFSztbQ5JLsDFekR56BR/89f3e906fdbb47f466abd34fac4583f7/physical_explosive_sprint_boost_plus.png,1,Plus
+431,212,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+432,212,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/4oeFQPAL2YlWlMy3qdhFb8/7a0840c4435e2e4374ef5c0d44b0d21b/ball_control_speed_dribbler.png,2,Simple
+433,212,RELENTLESS,https://images.ctfassets.net/rs6bgs1g8dbr/3eNJjFMQdohNsBEOYt4ycd/620a3fa863267a8cebbe0813829ee9b5/physical_relentless.png,2,Simple
+434,212,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+435,212,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+436,212,TRICKSTER,https://images.ctfassets.net/rs6bgs1g8dbr/1w3wFwnMltHuyfEpynhfl4/44fd89eff43840b1607e37555de87303/ball_control_trickster.png,2,Simple
+437,213,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/HxJPKCTo2MxgtvhscL1cz/7edc15e88a69ab9b6d68e7d923dffbe5/passing_pass_into_space_plus.png,1,Plus
+438,213,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+439,213,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+440,213,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+441,221,PINGED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/22QMlYzSeUUNPHnnA2KFl1/224f695d2fae463accf63ad06b59fc6e/passing_bullet_passes_plus.png,1,Plus
+442,221,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+443,221,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+444,221,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+445,221,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/44Zu6RANTWyFaiPsxtwjBZ/ae442f577d9e9eabeaf141ad14241051/defending_fast_jockey.png,2,Simple
+446,221,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+447,222,SLIDE TACKLE,https://images.ctfassets.net/rs6bgs1g8dbr/2lIweXHXSdEpvm4EMoiDMP/b39109af491195a3da1fd67f6a4ef90e/defending_slide_tackler_plus.png,1,Plus
+448,222,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/7u3A0XWs702onxZdImbR9/6d56866a7c36bbaa658f2626c86d5a00/defending_tackle_vision.png,2,Simple
+449,222,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+450,222,PINGED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3tGWYjKe4SDbXb6eyfBHcC/858f2bc4f067939f49344cc4f67c48e0/passing_bullet_passes.png,2,Simple
+451,222,BRUISER,https://images.ctfassets.net/rs6bgs1g8dbr/5OdozEcqzYkX4RHAg4q2s1/a09636946370ee929c106466d5b06c10/defending_bruiser.png,2,Simple
+452,226,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/2qZufTB6YHpTOuil3dugxB/3fd49c8dac01d6032732918eb90b8412/ball_control_flair_plus.png,1,Plus
+453,226,ACROBATIC,https://images.ctfassets.net/rs6bgs1g8dbr/6VuizOLsa5QglVIM1MEU5l/cfdd063a5da0379a5ae12b722d51b394/physical_acrobatic.png,2,Simple
+454,226,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+455,226,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+456,226,TRICKSTER,https://images.ctfassets.net/rs6bgs1g8dbr/1w3wFwnMltHuyfEpynhfl4/44fd89eff43840b1607e37555de87303/ball_control_trickster.png,2,Simple
+457,226,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+458,233,CHIP SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/nzE22LuZI1tP4VfHa8PVf/53d50bab09f6011dca8f402f67c9a990/finishing_chip_shot_plus.png,1,Plus
+459,233,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+460,233,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+461,233,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+462,233,TIKI TAKA,https://images.ctfassets.net/rs6bgs1g8dbr/5GMv390ocVCipO2G1qLoMs/4f0c4f68acf853f5b3deaaa25c892645/passing_tiki_taka_master.png,2,Simple
+463,249,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/2dFFSztbQ5JLsDFekR56BR/89f3e906fdbb47f466abd34fac4583f7/physical_explosive_sprint_boost_plus.png,1,Plus
+464,249,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/4oeFQPAL2YlWlMy3qdhFb8/7a0840c4435e2e4374ef5c0d44b0d21b/ball_control_speed_dribbler.png,2,Simple
+465,250,TRICKSTER,https://images.ctfassets.net/rs6bgs1g8dbr/WernuDe1sysUfm84HVnmr/c9ff09dbf6647f5c2ce52dbdc9b23327/ball_control_trickster_plus.png,1,Plus
+466,250,CHIP SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/2piJ84FhIDFMCvZocNUNjz/1118a939d9e196c6e156607c5712fc8a/finishing_chip_shot.png,2,Simple
+467,250,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+468,250,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+469,250,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+470,250,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+471,250,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+472,253,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/HxJPKCTo2MxgtvhscL1cz/7edc15e88a69ab9b6d68e7d923dffbe5/passing_pass_into_space_plus.png,1,Plus
+473,253,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/5j1c9rMtVKRh0MUtE8cBrJ/b28c692dd52a407c7f63921b9f8b0cdc/passing_whipped_crosses.png,2,Simple
+474,253,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+475,253,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/2aNS4h6QofFax4v7ulThvI/0109855d83dc3400d85de3c2c62be49f/finishing_fk_specialist.png,2,Simple
+476,253,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+477,268,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/6CrNsOWFQG5Z1ww1ppijTA/53438c3b35f6d5a3f2a127cf18a49669/defending_brick_wall_plus.png,1,Plus
+478,268,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/44Zu6RANTWyFaiPsxtwjBZ/ae442f577d9e9eabeaf141ad14241051/defending_fast_jockey.png,2,Simple
+479,268,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+480,268,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+481,273,INTERCEPT,https://images.ctfassets.net/rs6bgs1g8dbr/2c2XOCtXmkR2awbH94aUdI/72957e476317ff78d22c2676c2b19830/defending_intercepter_plus.png,1,Plus
+482,273,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/44Zu6RANTWyFaiPsxtwjBZ/ae442f577d9e9eabeaf141ad14241051/defending_fast_jockey.png,2,Simple
+483,273,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+484,273,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+485,273,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+486,273,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/7u3A0XWs702onxZdImbR9/6d56866a7c36bbaa658f2626c86d5a00/defending_tackle_vision.png,2,Simple
+487,275,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/2uAdMLzeN3fxNTEkiX1bCG/78726fff0d3e14b95d967ae25db81905/ball_control_speed_dribbler_plus.png,1,Plus
+488,275,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/5j1c9rMtVKRh0MUtE8cBrJ/b28c692dd52a407c7f63921b9f8b0cdc/passing_whipped_crosses.png,2,Simple
+489,275,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+490,275,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+491,275,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+492,275,TRICKSTER,https://images.ctfassets.net/rs6bgs1g8dbr/1w3wFwnMltHuyfEpynhfl4/44fd89eff43840b1607e37555de87303/ball_control_trickster.png,2,Simple
+493,275,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+494,281,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/6CrNsOWFQG5Z1ww1ppijTA/53438c3b35f6d5a3f2a127cf18a49669/defending_brick_wall_plus.png,1,Plus
+495,281,RELENTLESS,https://images.ctfassets.net/rs6bgs1g8dbr/3eNJjFMQdohNsBEOYt4ycd/620a3fa863267a8cebbe0813829ee9b5/physical_relentless.png,2,Simple
+496,281,BRUISER,https://images.ctfassets.net/rs6bgs1g8dbr/5OdozEcqzYkX4RHAg4q2s1/a09636946370ee929c106466d5b06c10/defending_bruiser.png,2,Simple
+497,281,SLIDE TACKLE,https://images.ctfassets.net/rs6bgs1g8dbr/XV8ckQxCJgtXMQinvkzKL/9a244ed1c790ee3288fdc9a0a9349d86/defending_slide_tackler.png,2,Simple
+498,281,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+499,297,BRUISER,https://images.ctfassets.net/rs6bgs1g8dbr/2cwRCUHUlljuqXZmHkCzah/2998a7101af68a8691625d7ec5b15162/defending_bruiser_plus.png,1,Plus
+500,297,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+501,297,SLIDE TACKLE,https://images.ctfassets.net/rs6bgs1g8dbr/XV8ckQxCJgtXMQinvkzKL/9a244ed1c790ee3288fdc9a0a9349d86/defending_slide_tackler.png,2,Simple
+502,306,CHIP SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/nzE22LuZI1tP4VfHa8PVf/53d50bab09f6011dca8f402f67c9a990/finishing_chip_shot_plus.png,1,Plus
+503,306,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+504,306,FINESSE SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/5N6V8NZsk3z09dtoa19lWJ/3c2cbeedcf3878257d969ffc9507b5b5/finishing_finesse_shot.png,2,Simple
+505,306,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/5j1c9rMtVKRh0MUtE8cBrJ/b28c692dd52a407c7f63921b9f8b0cdc/passing_whipped_crosses.png,2,Simple
+506,306,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+507,306,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+508,306,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+509,318,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/618mhBZk79LzRePoYhV1Cq/ce1a4d1aae09f8d1e7d1ed3d7af17d25/finishing_fk_specialist_plus.png,1,Plus
+510,318,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+511,320,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/2qZufTB6YHpTOuil3dugxB/3fd49c8dac01d6032732918eb90b8412/ball_control_flair_plus.png,1,Plus
+512,320,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+513,320,TRICKSTER,https://images.ctfassets.net/rs6bgs1g8dbr/1w3wFwnMltHuyfEpynhfl4/44fd89eff43840b1607e37555de87303/ball_control_trickster.png,2,Simple
+514,320,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+515,320,CHIP SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/2piJ84FhIDFMCvZocNUNjz/1118a939d9e196c6e156607c5712fc8a/finishing_chip_shot.png,2,Simple
+516,320,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+517,361,ACROBATIC,https://images.ctfassets.net/rs6bgs1g8dbr/2EcMpLBndCtGVTLOUOjTz0/7a39037d84a4382a446ea97403f665dd/physical_acrobatic_plus.png,1,Plus
+518,361,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+519,361,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/5zsUhtmr76X1fgAGf4wGFZ/778178591c1f3e3418f344974444c716/finishing_power_header.png,2,Simple
+520,361,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+521,364,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/58uhpLQGeDtUy10dnwHUS8/b29b84d2e24eaa35219295367e092cac/passing_whipped_crosses_plus.png,1,Plus
+522,364,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+523,364,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/2aNS4h6QofFax4v7ulThvI/0109855d83dc3400d85de3c2c62be49f/finishing_fk_specialist.png,2,Simple
+524,364,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+525,364,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+526,365,TIKI TAKA,https://images.ctfassets.net/rs6bgs1g8dbr/5jLNq8IEynU1C2TvcGIq8V/ef0e4631cc4335d8cbc3d04ed97ec8b1/passing_tiki_taka_master_plus.png,1,Plus
+527,365,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+528,365,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+529,365,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+530,365,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+531,365,INTERCEPT,https://images.ctfassets.net/rs6bgs1g8dbr/3ql4uLcLezVYXvsyuMA9OW/9871490abacdb0725d1b5d10f4866b70/defending_intercepter.png,2,Simple
+532,366,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/6CrNsOWFQG5Z1ww1ppijTA/53438c3b35f6d5a3f2a127cf18a49669/defending_brick_wall_plus.png,1,Plus
+533,366,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+534,366,PINGED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3tGWYjKe4SDbXb6eyfBHcC/858f2bc4f067939f49344cc4f67c48e0/passing_bullet_passes.png,2,Simple
+535,366,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/44Zu6RANTWyFaiPsxtwjBZ/ae442f577d9e9eabeaf141ad14241051/defending_fast_jockey.png,2,Simple
+536,366,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/5zsUhtmr76X1fgAGf4wGFZ/778178591c1f3e3418f344974444c716/finishing_power_header.png,2,Simple
+537,374,LONG THROW,https://images.ctfassets.net/rs6bgs1g8dbr/O2IZuT6G7pyCRUbHf4lBS/f2565413e04ef3fd90a55932cf54f35e/physical_throw_in_specialist_plus.png,1,Plus
+538,374,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+539,374,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/4oeFQPAL2YlWlMy3qdhFb8/7a0840c4435e2e4374ef5c0d44b0d21b/ball_control_speed_dribbler.png,2,Simple
+540,376,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/6CrNsOWFQG5Z1ww1ppijTA/53438c3b35f6d5a3f2a127cf18a49669/defending_brick_wall_plus.png,1,Plus
+541,376,INTERCEPT,https://images.ctfassets.net/rs6bgs1g8dbr/3ql4uLcLezVYXvsyuMA9OW/9871490abacdb0725d1b5d10f4866b70/defending_intercepter.png,2,Simple
+542,376,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+543,378,PINGED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/22QMlYzSeUUNPHnnA2KFl1/224f695d2fae463accf63ad06b59fc6e/passing_bullet_passes_plus.png,1,Plus
+544,378,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+545,378,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+546,378,PRESS PROVEN,https://images.ctfassets.net/rs6bgs1g8dbr/5WTecKoNuRrTXDxF3Jz6jH/42389b03e15b6ca0edb94af7ce769856/ball_control_possession_holder.png,2,Simple
+547,394,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/Gh3trGUWMQhFnQQsiX6Fd/76066da765fcb47a10cd55be96a1bcf3/finishing_power_header_plus.png,1,Plus
+548,394,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+549,394,POWER SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/484Ib1DGnKLwIekNohgEAs/94073bea49a4f6c643733f27ca66689a/finishing_power_shot.png,2,Simple
+550,431,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/618mhBZk79LzRePoYhV1Cq/ce1a4d1aae09f8d1e7d1ed3d7af17d25/finishing_fk_specialist_plus.png,1,Plus
+551,431,POWER SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/484Ib1DGnKLwIekNohgEAs/94073bea49a4f6c643733f27ca66689a/finishing_power_shot.png,2,Simple
+552,431,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+553,431,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/5j1c9rMtVKRh0MUtE8cBrJ/b28c692dd52a407c7f63921b9f8b0cdc/passing_whipped_crosses.png,2,Simple
+554,431,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+555,431,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+556,442,PRESS PROVEN,https://images.ctfassets.net/rs6bgs1g8dbr/4rzIsQoV5h1RNQcjrSvQta/68cdb64d8129be4b17da8ac2f4de1a23/ball_control_possession_holder_plus.png,1,Plus
+557,442,FIRST TOUCH,https://images.ctfassets.net/rs6bgs1g8dbr/bemri7wk5uuzvSb0C1JMq/7d5b607b73dee2fcfff6294c112687cd/ball_control_trap_master.png,2,Simple
+558,442,BRUISER,https://images.ctfassets.net/rs6bgs1g8dbr/5OdozEcqzYkX4RHAg4q2s1/a09636946370ee929c106466d5b06c10/defending_bruiser.png,2,Simple
+559,442,RELENTLESS,https://images.ctfassets.net/rs6bgs1g8dbr/3eNJjFMQdohNsBEOYt4ycd/620a3fa863267a8cebbe0813829ee9b5/physical_relentless.png,2,Simple
+560,486,RELENTLESS,https://images.ctfassets.net/rs6bgs1g8dbr/3NZgHhXOl7LlUmWvaBAR03/045eb8a726dd5c7848fa2ac9c60238a3/physical_relentless_plus.png,1,Plus
+561,486,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+562,551,TRICKSTER,https://images.ctfassets.net/rs6bgs1g8dbr/WernuDe1sysUfm84HVnmr/c9ff09dbf6647f5c2ce52dbdc9b23327/ball_control_trickster_plus.png,1,Plus
+563,551,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+564,551,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+565,551,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+566,578,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/2dFFSztbQ5JLsDFekR56BR/89f3e906fdbb47f466abd34fac4583f7/physical_explosive_sprint_boost_plus.png,1,Plus
+567,578,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+568,578,CHIP SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/2piJ84FhIDFMCvZocNUNjz/1118a939d9e196c6e156607c5712fc8a/finishing_chip_shot.png,2,Simple
+569,578,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+570,578,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/4oeFQPAL2YlWlMy3qdhFb8/7a0840c4435e2e4374ef5c0d44b0d21b/ball_control_speed_dribbler.png,2,Simple
+571,578,ACROBATIC,https://images.ctfassets.net/rs6bgs1g8dbr/6VuizOLsa5QglVIM1MEU5l/cfdd063a5da0379a5ae12b722d51b394/physical_acrobatic.png,2,Simple
+572,720,SLIDE TACKLE,https://images.ctfassets.net/rs6bgs1g8dbr/2lIweXHXSdEpvm4EMoiDMP/b39109af491195a3da1fd67f6a4ef90e/defending_slide_tackler_plus.png,1,Plus
+573,720,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/7u3A0XWs702onxZdImbR9/6d56866a7c36bbaa658f2626c86d5a00/defending_tackle_vision.png,2,Simple
+574,720,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/4oeFQPAL2YlWlMy3qdhFb8/7a0840c4435e2e4374ef5c0d44b0d21b/ball_control_speed_dribbler.png,2,Simple
+575,720,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/HvdUoYYdbQzTUEeRMeHfC/d37b8ea0e8de23f31ab3a1a329157fa6/defending_brick_wall.png,2,Simple
+576,1220,ACROBATIC,https://images.ctfassets.net/rs6bgs1g8dbr/2EcMpLBndCtGVTLOUOjTz0/7a39037d84a4382a446ea97403f665dd/physical_acrobatic_plus.png,1,Plus
+577,1220,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/3bNNHQssvt1a8Rs0kjHoAz/63674df6fa76d6720109eb98d2144504/physical_explosive_sprint_boost.png,2,Simple
+578,1220,TRIVELA,https://images.ctfassets.net/rs6bgs1g8dbr/6t5qkdqKeFiCMsOkM7NDvr/0e970b6687137f698b2acfa30ff1d637/physical_outside_foot.png,2,Simple
+579,1220,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+580,1220,TECHNICAL,https://images.ctfassets.net/rs6bgs1g8dbr/6QhFtZPXQHG2jJXLTzbznr/8b2f6c64f3aadaf32e3a2f1781d773b6/ball_control_technical_dribbler.png,2,Simple
+581,1221,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/618mhBZk79LzRePoYhV1Cq/ce1a4d1aae09f8d1e7d1ed3d7af17d25/finishing_fk_specialist_plus.png,1,Plus
+582,1221,INCISIVE PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3Ojc5NCuluO18kgVKoYu3W/0eeb769eb0b80b309047e780cbcc799d/passing_pass_into_space.png,2,Simple
+583,1221,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/5j1c9rMtVKRh0MUtE8cBrJ/b28c692dd52a407c7f63921b9f8b0cdc/passing_whipped_crosses.png,2,Simple
+584,1221,RELENTLESS,https://images.ctfassets.net/rs6bgs1g8dbr/3eNJjFMQdohNsBEOYt4ycd/620a3fa863267a8cebbe0813829ee9b5/physical_relentless.png,2,Simple
+585,1221,PINGED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/3tGWYjKe4SDbXb6eyfBHcC/858f2bc4f067939f49344cc4f67c48e0/passing_bullet_passes.png,2,Simple
+586,1221,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+587,1955,POWER SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/59h9JTXYLEHBd1GcRv5kYU/1e3de40be539af6a78513ea99826ac75/finishing_power_shot_plus.png,1,Plus
+588,1955,BRUISER,https://images.ctfassets.net/rs6bgs1g8dbr/5OdozEcqzYkX4RHAg4q2s1/a09636946370ee929c106466d5b06c10/defending_bruiser.png,2,Simple
+589,1955,FLAIR,https://images.ctfassets.net/rs6bgs1g8dbr/42z0N4BDmVyCBIvJTRb4Hy/4f9780c1f1f6ddabfa47d4305ea4c5f9/ball_control_flair.png,2,Simple
+590,2079,LONG THROW</span></d,https://images.ctfassets.net/rs6bgs1g8dbr/O2IZuT6G7pyCRUbHf4lBS/f2565413e04ef3fd90a55932cf54f35e/physical_throw_in_specialist_plus.png,1,Plus
+591,2079,,,2,Simple
+592,2920,POWER SHOT,https://images.ctfassets.net/rs6bgs1g8dbr/59h9JTXYLEHBd1GcRv5kYU/1e3de40be539af6a78513ea99826ac75/finishing_power_shot_plus.png,1,Plus
+593,2920,WHIPPED PASS,https://images.ctfassets.net/rs6bgs1g8dbr/5j1c9rMtVKRh0MUtE8cBrJ/b28c692dd52a407c7f63921b9f8b0cdc/passing_whipped_crosses.png,2,Simple
+594,2920,DEAD BALL,https://images.ctfassets.net/rs6bgs1g8dbr/2aNS4h6QofFax4v7ulThvI/0109855d83dc3400d85de3c2c62be49f/finishing_fk_specialist.png,2,Simple
+595,7137,QUICK STEP,https://images.ctfassets.net/rs6bgs1g8dbr/2dFFSztbQ5JLsDFekR56BR/89f3e906fdbb47f466abd34fac4583f7/physical_explosive_sprint_boost_plus.png,1,Plus
+596,7137,RAPID,https://images.ctfassets.net/rs6bgs1g8dbr/4oeFQPAL2YlWlMy3qdhFb8/7a0840c4435e2e4374ef5c0d44b0d21b/ball_control_speed_dribbler.png,2,Simple
+597,7137,ACROBATIC,https://images.ctfassets.net/rs6bgs1g8dbr/6VuizOLsa5QglVIM1MEU5l/cfdd063a5da0379a5ae12b722d51b394/physical_acrobatic.png,2,Simple
+598,7481,LONG THROW,https://images.ctfassets.net/rs6bgs1g8dbr/O2IZuT6G7pyCRUbHf4lBS/f2565413e04ef3fd90a55932cf54f35e/physical_throw_in_specialist_plus.png,1,Plus
+599,7481,JOCKEY,https://images.ctfassets.net/rs6bgs1g8dbr/44Zu6RANTWyFaiPsxtwjBZ/ae442f577d9e9eabeaf141ad14241051/defending_fast_jockey.png,2,Simple
+600,7481,BRUISER,https://images.ctfassets.net/rs6bgs1g8dbr/5OdozEcqzYkX4RHAg4q2s1/a09636946370ee929c106466d5b06c10/defending_bruiser.png,2,Simple
+601,7481,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/HvdUoYYdbQzTUEeRMeHfC/d37b8ea0e8de23f31ab3a1a329157fa6/defending_brick_wall.png,2,Simple
+602,7481,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+603,7698,LONG THROW,https://images.ctfassets.net/rs6bgs1g8dbr/O2IZuT6G7pyCRUbHf4lBS/f2565413e04ef3fd90a55932cf54f35e/physical_throw_in_specialist_plus.png,1,Plus
+604,7698,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+605,7698,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/HvdUoYYdbQzTUEeRMeHfC/d37b8ea0e8de23f31ab3a1a329157fa6/defending_brick_wall.png,2,Simple
+606,8680,LONG THROW,https://images.ctfassets.net/rs6bgs1g8dbr/O2IZuT6G7pyCRUbHf4lBS/f2565413e04ef3fd90a55932cf54f35e/physical_throw_in_specialist_plus.png,1,Plus
+607,8680,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+608,9391,LONG THROW</span></d,https://images.ctfassets.net/rs6bgs1g8dbr/O2IZuT6G7pyCRUbHf4lBS/f2565413e04ef3fd90a55932cf54f35e/physical_throw_in_specialist_plus.png,1,Plus
+609,9391,,,2,Simple
+610,9693,LONG THROW</span></d,https://images.ctfassets.net/rs6bgs1g8dbr/O2IZuT6G7pyCRUbHf4lBS/f2565413e04ef3fd90a55932cf54f35e/physical_throw_in_specialist_plus.png,1,Plus
+611,9693,,,2,Simple
+612,11985,LONG THROW,https://images.ctfassets.net/rs6bgs1g8dbr/O2IZuT6G7pyCRUbHf4lBS/f2565413e04ef3fd90a55932cf54f35e/physical_throw_in_specialist_plus.png,1,Plus
+613,11985,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple
+614,11985,POWER HEADER,https://images.ctfassets.net/rs6bgs1g8dbr/5zsUhtmr76X1fgAGf4wGFZ/778178591c1f3e3418f344974444c716/finishing_power_header.png,2,Simple
+615,11985,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+616,12332,LONG THROW,https://images.ctfassets.net/rs6bgs1g8dbr/O2IZuT6G7pyCRUbHf4lBS/f2565413e04ef3fd90a55932cf54f35e/physical_throw_in_specialist_plus.png,1,Plus
+617,12332,BLOCK,https://images.ctfassets.net/rs6bgs1g8dbr/HvdUoYYdbQzTUEeRMeHfC/d37b8ea0e8de23f31ab3a1a329157fa6/defending_brick_wall.png,2,Simple
+618,12332,ANTICIPATE,https://images.ctfassets.net/rs6bgs1g8dbr/7u3A0XWs702onxZdImbR9/6d56866a7c36bbaa658f2626c86d5a00/defending_tackle_vision.png,2,Simple
+619,12332,AERIAL,https://images.ctfassets.net/rs6bgs1g8dbr/7nZEqGWnLklBV3cg7G0Xwf/93325254fd9f3fd17ecbd59e63b3cf17/physical_aerial_master.png,2,Simple
+620,12332,LONG BALL PASS,https://images.ctfassets.net/rs6bgs1g8dbr/6cnq9K8MA36MqTTq6I76HO/5af8e33cd0e75ea39eadc0781e86bb23/passing_lob_pass_master.png,2,Simple

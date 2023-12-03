@@ -36,6 +36,8 @@ def Dashboard():
     try:
         df_fifa_Export.to_csv('datasets/EAFC24_Dados.csv', encoding='UTF-8')
         df_fifa_Export.to_excel('datasets/EAFC24_Dados.xlsx')
+        df_Styles.to_csv('datasets/EAFC24_Dados_Estilos.csv', encoding='UTF-8')        
+        df_Styles.to_excel('datasets/EAFC24_Dados_Estilos.xlsx')
     except:
         st.exception("Erro ao exportar o Dataset")
 
@@ -260,16 +262,48 @@ def Dashboard():
         ,use_container_width=True   
     )
 
-    # fig_Style = px.scatter(
-    #     df_JogadoresEstilos,
-    #     x="CdStyleTipo",
-    #     y="PlayerRank",
-    #     color="PlayerPosition",
-    #     size="PlayerPosition"
-    # )
+    estilos_Agg = df_JogadoresEstilos.groupby(by=["StyleName","NomeStyleTipo","PlayerPosition"])[["PlayerName"]].count().reset_index()
+    estilos_Qtde = df_JogadoresEstilos.groupby(by=["StyleName","NomeStyleTipo"])[["PlayerName"]].count().reset_index()
+    tabEstilo1, tabEstilo2, tabEstilo3, tabEstilo4 = colEstilo2.tabs(["Geral", "Plus", "Comum", "Linhas"])
 
-    # colEstilo2.plotly_chart(fig_Style, use_container_width=True)
+    fig_style = px.scatter(
+        estilos_Agg,
+        x="StyleName",
+        y="PlayerPosition",
+        color="NomeStyleTipo",
+        size="PlayerName",
+        # symbol="PlayerPosition",
+        hover_data=['PlayerName']
+    )
+    tabEstilo1.plotly_chart(fig_style, use_container_width=True)
+
+    fig_style1 = px.scatter(
+        estilos_Agg[estilos_Agg["NomeStyleTipo"] == "Plus"],
+        x="StyleName",
+        y="PlayerPosition",
+        color="NomeStyleTipo",
+        size="PlayerName",
+        # symbol="PlayerPosition",
+        hover_data=['PlayerName']
+    )
+    tabEstilo2.plotly_chart(fig_style1, use_container_width=True)
 
 
+    fig_style2 = px.scatter(
+        estilos_Agg[estilos_Agg["NomeStyleTipo"] == "Simple"],
+        x="StyleName",
+        y="PlayerPosition",
+        color="NomeStyleTipo",
+        size="PlayerName",
+        # symbol="PlayerPosition",
+        hover_data=['PlayerName']
+    )
+    tabEstilo3.plotly_chart(fig_style2, use_container_width=True)
 
-
+    fig_style0 = px.line(
+        estilos_Qtde,
+        x="StyleName",
+        y="PlayerName",
+        color="NomeStyleTipo"        
+    )
+    tabEstilo4.plotly_chart(fig_style0, use_container_width=True)
