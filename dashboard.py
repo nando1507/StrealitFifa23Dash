@@ -250,17 +250,38 @@ def Dashboard():
 
     colEstilo1, colEstilo2 = st.columns(2)
 
-    colEstilo1.dataframe(df_JogadoresEstilos,
-        column_config={
-            "PlayerName": st.column_config.TextColumn("Nome"), 
-            "PlayerPosition": st.column_config.TextColumn("Posição"),
-            "StyleName": st.column_config.TextColumn("Estilo"),
-            "StyleURLImg": st.column_config.ImageColumn("Foto", width="small"),
-            "CdStyleTipo": st.column_config.TextColumn("Codigo de Estilo"),
-            "NomeStyleTipo": st.column_config.TextColumn("Tipo de Estilo"),
-        }     
-        ,use_container_width=True   
-    )
+    tabDf, tabdf2 = colEstilo1.tabs(["Plus","Comum"] ) #,use_container_width=True  
+    with tabDf:        
+        st.dataframe(
+            df_JogadoresEstilos[df_JogadoresEstilos["CdStyleTipo"] == 1][["PlayerName","PlayerPosition","StyleName","StyleURLImg","NomeStyleTipo"]],
+            column_config={
+                "PlayerRank": st.column_config.Column(disabled=True, required=True),
+                "PlayerName": st.column_config.TextColumn("Nome"), 
+                "PlayerPosition": st.column_config.TextColumn("Posição"),
+                "StyleName": st.column_config.TextColumn("Estilo"),
+                "StyleURLImg": st.column_config.ImageColumn("Foto", width="small"),
+                "CdStyleTipo": st.column_config.TextColumn("Codigo de Estilo", disabled=True),
+                "NomeStyleTipo": st.column_config.TextColumn("Tipo de Estilo"),
+            },
+            use_container_width=True,
+            hide_index=True,  
+        )
+    with tabdf2:
+        st.dataframe(
+            df_JogadoresEstilos[df_JogadoresEstilos["CdStyleTipo"] == 2][["PlayerName","PlayerPosition","StyleName","StyleURLImg","NomeStyleTipo"]],
+            column_config={
+                "PlayerRank": st.column_config.Column(disabled=True, required=True),
+                "PlayerName": st.column_config.TextColumn("Nome"), 
+                "PlayerPosition": st.column_config.TextColumn("Posição"),
+                "StyleName": st.column_config.TextColumn("Estilo"),
+                "StyleURLImg": st.column_config.ImageColumn("Foto", width="small"),
+                "CdStyleTipo": st.column_config.TextColumn("Codigo de Estilo", disabled=True),
+                "NomeStyleTipo": st.column_config.TextColumn("Tipo de Estilo"),
+            },
+            use_container_width=True  ,
+            hide_index=True,
+        )
+
 
     estilos_Agg = df_JogadoresEstilos.groupby(by=["StyleName","NomeStyleTipo","PlayerPosition"])[["PlayerName"]].count().reset_index()
     estilos_Qtde = df_JogadoresEstilos.groupby(by=["StyleName","NomeStyleTipo"])[["PlayerName"]].count().reset_index()
@@ -287,7 +308,6 @@ def Dashboard():
         hover_data=['PlayerName']
     )
     tabEstilo2.plotly_chart(fig_style1, use_container_width=True)
-
 
     fig_style2 = px.scatter(
         estilos_Agg[estilos_Agg["NomeStyleTipo"] == "Simple"],
