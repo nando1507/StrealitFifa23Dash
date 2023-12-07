@@ -53,3 +53,11 @@ def CarregaDatasetEstilos():
     df_Styles = pd.read_sql(query, __Conexao())
     return df_Styles
 
+def CarregaTXTDatasetSQL(arquivo:str, sep:str, tabela:str):
+    df = pd.read_csv(arquivo, sep, dtype=object) 
+
+    df.to_sql(
+        tabela,
+        con=__Conexao(),
+        if_exists='append'
+    )
